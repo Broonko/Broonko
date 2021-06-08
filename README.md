@@ -1,4 +1,4 @@
-<img src="C:\Users\carso\Desktop\fotos\readme.jpg"/>
+<img src="/fotos/readme.jpg"/>
 
 ### Hi there 👋
 
