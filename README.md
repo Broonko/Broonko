@@ -1,4 +1,4 @@
-<img src="/Broonko/Broonko/webdesign.jpg"/>
+<img src="/Broonko/Broonko/webdesign.jpg" alt="My photo"/>
 
 ### Hi there 👋
 
